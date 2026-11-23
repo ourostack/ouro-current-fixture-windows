@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0-windows10.0.19041": {
+      "Ouro.Actions": {
+        "type": "Direct",
+        "requested": "[0.11.0, )",
+        "resolved": "0.11.0"
+      },
+      "Ouro.UI.Windows": {
+        "type": "Direct",
+        "requested": "[0.11.0, )",
+        "resolved": "0.11.0"
+      }
+    }
+  }
+}
